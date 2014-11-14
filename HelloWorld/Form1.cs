@@ -20,6 +20,7 @@ namespace HelloWorld
         private void btnDisplay_Click(object sender, EventArgs e)
         {
             lblHello.Text = "Hello World";
+            lblHello.Text = "Hello World good morning";
         }
     }
 }
