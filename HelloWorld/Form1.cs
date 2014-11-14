@@ -25,6 +25,7 @@ namespace HelloWorld
             lblHello.Text = "Hello World, we're not done yet."; 
             lblHello.Text = "Hello World, text added from GitHub";
             lblHello.Text = "Hello World, another line added from GitHub";
+            lblHello.Text = "Hello World, this line added from VS";
         }
     }
 }
