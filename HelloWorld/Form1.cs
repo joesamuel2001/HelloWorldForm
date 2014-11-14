@@ -22,6 +22,7 @@ namespace HelloWorld
             lblHello.Text = "Hello World";
             lblHello.Text = "Hello World good morning";
             lblHello.Text = "Hello World, we're back";
+            lblHello.Text = "Hello World, we're not done yet."; 
         }
     }
 }
