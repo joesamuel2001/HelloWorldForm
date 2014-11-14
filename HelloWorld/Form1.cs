@@ -29,6 +29,7 @@ namespace HelloWorld
             lblHello.Text = "Hello World, another line added from VS 11:25am";       
             lblHello.Text = "Hello World, another line added from VS 11:35am";
             lblHello.Text = "Hello World, another line added from VS at 11:40";
+            lblHello.Text = "Hello World, another line added from GitHub 11:50am";
         }
     }
 }
