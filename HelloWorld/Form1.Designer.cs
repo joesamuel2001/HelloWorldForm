@@ -34,9 +34,9 @@
             // 
             // lblHello
             // 
-            this.lblHello.Location = new System.Drawing.Point(81, 53);
+            this.lblHello.Location = new System.Drawing.Point(12, 53);
             this.lblHello.Name = "lblHello";
-            this.lblHello.Size = new System.Drawing.Size(199, 34);
+            this.lblHello.Size = new System.Drawing.Size(352, 73);
             this.lblHello.TabIndex = 0;
             this.lblHello.Text = "label1";
             this.lblHello.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
